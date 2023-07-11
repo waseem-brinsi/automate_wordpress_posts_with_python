@@ -1,0 +1,27 @@
+{
+"attachment_id": "728", 
+"date_created_gmt": "<DateTime \"20230710T04:45:44\" at 0x24a1786a100>",
+"parent": 0,
+"link": "http://localhost/wp-content/uploads/2023/07/img1-copy.jpg",
+"title": "img1-copy.jpg",
+"caption": "",
+"description": "", 
+"metadata": {
+"width": 1050,"height": 700,"file": "2023/07/img1-copy.jpg","filesize": 27988, 
+"sizes": {
+  "medium": {"file": "img1-copy-300x200.jpg", "width": 300, "height": 200, "mime-type": "image/jpeg", "filesize": 5780}, 
+  "large": {"file": "img1-copy-1024x683.jpg", "width": 1024, "height": 683, "mime-type": "image/jpeg", "filesize": 33745}, 
+  "thumbnail": {"file": "img1-copy-150x150.jpg", "width": 150, "height": 150, "mime-type": "image/jpeg", "filesize": 3477}, 
+  "medium_large": {"file": "img1-copy-768x512.jpg", "width": 768, "height": 512, "mime-type": "image/jpeg", "filesize": 22299}, 
+  "td_218x150": {"file": "img1-copy-218x150.jpg", "width": 218, "height": 150, "mime-type": "image/jpeg", "filesize": 3885}, 
+  "td_324x400": {"file": "img1-copy-324x400.jpg", "width": 324, "height": 400, "mime-type": "image/jpeg", "filesize": 12649}, 
+  "td_485x360": {"file": "img1-copy-485x360.jpg", "width": 485, "height": 360, "mime-type": "image/jpeg", "filesize": 12972}, 
+  "td_696x0": {"file": "img1-copy-696x464.jpg", "width": 696, "height": 464, "mime-type": "image/jpeg","filesize": 19435},
+  "td_324x160": {"file": "img1-copy-324x160.jpg", "width": 324, "height": 160, "mime-type": "image/jpeg", "filesize": 4712}, 
+  "td_324x160_retina": {"file": "img1-copy-648x320.jpg", "width": 648, "height": 320, "mime-type": "image/jpeg", "filesize": 12704}, 
+  "td_741x486": {"file": "img1-copy-741x486.jpg", "width": 741, "height": 486, "mime-type": "image/jpeg", "filesize": 21038}}, 
+  "image_meta": {"aperture": "0", "credit": "", "camera": "", "caption": "", "created_timestamp": "0", "copyright": "", "focal_length": "0", "iso": "0", "shutter_speed": "0", "title": "", "orientation": "0", "keywords": []}
+  }, 
+  "type": "image/jpeg", "thumbnail": "http://localhost/wp-content/uploads/2023/07/img1-copy-150x150.jpg", "id": "728", "file": "img1-copy.jpg", "url": "http://localhost/wp-content/uploads/2023/07/img1-copy.jpg"}
+
+  
