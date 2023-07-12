@@ -6,16 +6,18 @@ import json
 import os
 from dotenv import load_dotenv
 
-
-print("Start ......")
 load_dotenv()
 USERNAME = os.getenv("username")
 PASSWORD = os.getenv("password")
+print("Start ......")
+
 
 
 client = Client(url='http://localhost/xmlrpc.php',username=USERNAME,password=PASSWORD)
 
 files = os.listdir('img') 
+
+
 
 
 
