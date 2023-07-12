@@ -1,4 +1,5 @@
-img/
+img_in/
+img_out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
