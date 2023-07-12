@@ -4,14 +4,23 @@ from wordpress_xmlrpc.methods import posts,media
 from wordpress_xmlrpc.compat import xmlrpc_client
 import json
 import os
+from dotenv import load_dotenv
 
 
 print("Start ......")
+load_dotenv()
+USERNAME = os.getenv("username")
+PASSWORD = os.getenv("password")
 
-client = Client(url='http://localhost/xmlrpc.php',username='wetcci',password='wassim1995')
 
+client = Client(url='http://localhost/xmlrpc.php',username=USERNAME,password=PASSWORD)
 
 files = os.listdir('img') 
+
+
+
+
+
 
 for file in files :
         print(file)
